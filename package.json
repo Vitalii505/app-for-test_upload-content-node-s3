@@ -1,0 +1,16 @@
+{
+  "name": "cars_uploader_api",
+  "version": "1.0.0",
+  "description": "uploader_api_toS3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Vitalii505"
+  },
+  "author": "Vitalii A.",
+  "license": "ISC"
+}
